@@ -69,25 +69,25 @@ This is how I think these tables would look like with my suggested improvements
 PK - primary key
 RK - reference key
 
-Table **Athlets**
+Table **Atletas**
 |Column|Attribute Type|Column Type| 
 |---------|---------|---------|
 |ID|Intenger|PK|
-|Name|String||
-|Country|Intenger| RK to Countries|
-|Game|Integer|RK to Games|
-|Team|Integer|RK to Teams|
+|Nome|String||
+|Pais|Intenger| RK to Paises|
+|Jogo|Integer|RK to Jogos|
+|Time|Integer|RK to Times|
 
 Assuming relation 1 Athlete:1 Game as of now
 
-Table **Coach**
+Table **Treinadores**
 | Column | Attribute Type| Column Type| 
 |---------|---------|---------|
 |ID|Intenger|PK|
-|Name|String||
-|Country|Intenger| RK to Countries|
-|Game|Integer|PK to Games|
-|Event|Intenger|PK to Events|
+|Nome|String||
+|Pais|Intenger| RK to Paises|
+|Jogo|Integer|PK to Jogos|
+|Eventos|Intenger|PK to Eventos|
 
 Assuming relation 1 Coach:1 Game as of now
 Assuming relation 1 Coach:1 Event as of now
@@ -96,40 +96,40 @@ Table **Entry Gender**
 
 This table will be ignored due to [Dataset Analysis](#dataset-analysis)
 
-Table **Medals**
+Table **Medalhas**
 | Column | Attribute Type| Column Type| 
 |---------|---------|---------|
 |Rank|Integer||
-|Country|Intenger| RK to Countries|
-|Gold|Integer||
-|Silver|Integer||
+|Pais|Intenger| RK to Paises|
+|Ouro|Integer||
+|Prata|Integer||
 |Bronze|Integer||
 |Total|Integer||
-|Rank by Total|Integer||
+|Rank pelo Total|Integer||
 
-Table **Teams**
+Table **Times**
 | Column | Attribute Type| Column Type| 
 |---------|---------|---------|
 |ID|Intenger|PK|
-|Name|String|
-|Country|Intenger| RK to Countries|
-|Event|Intenger|RK to Events|
-|Game|Integer|RK to Games|
+|Nome|String|
+|Pais|Intenger| RK to Paises|
+|Evento|Intenger|RK to Eventos|
+|Jogo|Integer|RK to Jogos|
 
-Table **Games**
+Table **Jogos**
 | Column | Attribute Type| Column Type| 
 |---------|---------|---------|
 |ID|Intenger|PK|
-|Name|String|
+|Nome|String|
 
-Table **Events**
+Table **Eventos**
 | Column | Attribute Type| Column Type| 
 |---------|---------|---------|
 |ID|Intenger|PK|
-|Name|String|
+|Nome|String|
 
-Table **Countries**
+Table **Paises**
 | Column | Attribute Type| Column Type| 
 |---------|---------|---------|
 |ID|Intenger|PK|
-|Name|String|
+|Nome|String|
