@@ -2,6 +2,10 @@
 
 This is a school job for ETL practice for unisinos. Received columns are label as english due to dataset, but output tables will be translated to portuguese (pt-br)
 
+## Project Structure
+
+1. Talend Open Studio as ETL tool
+2. SQLite as local DB
 
 ## Datasets
 
