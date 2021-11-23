@@ -6,6 +6,7 @@ This is a school job for ETL practice for unisinos. Received columns are label a
 
 1. Talend Open Studio as ETL tool
 2. SQLite as local DB
+3. Check SQL commands in sql_commands.md
 
 ## Datasets
 
