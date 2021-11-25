@@ -39,7 +39,7 @@ class TeamBuilder:
           country_entity =  paises_df[paises_df["nome"] == country_name]
           country_id = country_entity.id.values[0]
 
-          event_name = line_data[1]
+          event_name = line_data[3]
           event_entity =  eventos_df[eventos_df["nome"] == event_name]
           if pd.isna(event_name) == False and event_entity.empty == False:
             event_id = event_entity.id.values[0]

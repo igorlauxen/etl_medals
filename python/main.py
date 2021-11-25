@@ -5,6 +5,7 @@ from event_builder import EventBuilder
 from medal_builder import MedalBuilder
 from team_builder import TeamBuilder
 
+# todo improve the load of files
 input_file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/'
 output_file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/output/'
 
