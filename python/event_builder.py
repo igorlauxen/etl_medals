@@ -2,7 +2,7 @@ import pandas as pd
 import csv  
 import math
 
-athletes_file_name = 'Coaches.xlsx'
+athletes_file_name = 'Teams.xlsx'
 files_output = 'Eventos.csv'
 
 header = ['id', 'nome'];

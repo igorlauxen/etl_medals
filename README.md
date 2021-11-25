@@ -77,7 +77,7 @@ Below there is a list of points that were raised by me while looking the table s
 3. [IMPROVEMENT] There is no direct relation between Coaches and Athletes. I can still create a relation based on Country and Games. If I create tables to Countries and Games this would become easier
 4. [INCONSISTENCIES] Athletes table don't have gender information. Entry Gender table may not be used due to this.
 5. [IMPROVEMENT/INCONSISTENCIES] Ideally I would create a table Games where I would have the information realted to NOC and Event, but since the Athletes table doesn't have the event information, I don't think I would be able to unless I had a relation 1 Athlete to N games. But I don't know if this makes sense. @TODO need to search olympics rules to do this.
-
+6. [INCONSISTENCIES] Events from Teams and Coaches do not match!
 
 ## Tokyo Olympics Proposed Dataset
 
