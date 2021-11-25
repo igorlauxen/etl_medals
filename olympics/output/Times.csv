@@ -1,0 +1,744 @@
+id,nome,jogo_id,pais_id,event_id
+1,Belgium,45,15,0
+2,China,45,72,0
+3,China,45,72,0
+4,France,45,5,0
+5,Italy,45,4,0
+6,Japan,45,25,0
+7,Japan,45,25,0
+8,Latvia,45,78,0
+9,Mongolia,45,132,0
+10,Netherlands,45,10,0
+11,Poland,45,51,0
+12,ROC,45,33,0
+13,ROC,45,33,0
+14,Romania,45,50,0
+15,Serbia,45,86,0
+16,United States,45,12,0
+17,Australia,23,11,0
+18,Australia,23,11,0
+19,Bangladesh,23,68,0
+20,Belarus,23,107,0
+21,Brazil,23,53,0
+22,Canada,23,27,0
+23,China,23,72,0
+24,China,23,72,0
+25,China,23,72,0
+26,Chinese Taipei,23,161,0
+27,Chinese Taipei,23,161,0
+28,Chinese Taipei,23,161,0
+29,Colombia,23,48,0
+30,Egypt,23,14,0
+31,France,23,5,0
+32,France,23,5,0
+33,Germany,23,20,0
+34,Germany,23,20,0
+35,Great Britain,23,56,0
+36,Great Britain,23,56,0
+37,Great Britain,23,56,0
+38,India,23,43,0
+39,India,23,43,0
+40,Indonesia,23,22,0
+41,Indonesia,23,22,0
+42,Italy,23,4,0
+43,Italy,23,4,0
+44,Japan,23,25,0
+45,Japan,23,25,0
+46,Japan,23,25,0
+47,Kazakhstan,23,23,0
+48,Malaysia,23,16,0
+49,Mexico,23,47,0
+50,Mexico,23,47,0
+51,Mongolia,23,132,0
+52,Netherlands,23,10,0
+53,Netherlands,23,10,0
+54,Poland,23,51,0
+55,Rep. of Moldova,23,147,0
+56,Republic of Korea,23,112,0
+57,Republic of Korea,23,112,0
+58,Republic of Korea,23,112,0
+59,ROC,23,33,0
+60,ROC,23,33,0
+61,Spain,23,3,0
+62,Tunisia,23,46,0
+63,Turkey,23,54,0
+64,Ukraine,23,87,0
+65,Ukraine,23,87,0
+66,United States,23,12,0
+67,United States,23,12,0
+68,United States,23,12,0
+69,Vietnam,23,178,0
+70,Belgium,3,15,0
+71,Brazil,3,53,0
+72,Canada,3,27,0
+73,China,3,72,0
+74,China,3,72,0
+75,Chinese Taipei,3,161,0
+76,France,3,5,0
+77,Germany,3,20,0
+78,Germany,3,20,0
+79,Great Britain,3,56,0
+80,Great Britain,3,56,0
+81,Italy,3,4,0
+82,Japan,3,25,0
+83,Japan,3,25,0
+84,Netherlands,3,10,0
+85,Korea,3,112,0
+86,ROC,3,33,0
+87,ROC,3,33,0
+88,Spain,3,3,0
+89,Spain,3,3,0
+90,Switzerland,3,36,0
+91,Ukraine,3,87,0
+92,United States,3,12,0
+93,United States,3,12,0
+94,Australia,13,11,0
+95,Australia,13,11,0
+96,Austria,13,31,0
+97,Belarus,13,107,0
+98,Canada,13,27,0
+99,Canada,13,27,0
+100,China,13,72,0
+101,China,13,72,0
+102,Colombia,13,48,0
+103,Egypt,13,14,0
+104,Egypt,13,14,0
+105,France,13,5,0
+106,Great Britain,13,56,0
+107,Greece,13,103,0
+108,Greece,13,103,0
+109,Israel,13,97,0
+110,Italy,13,4,0
+111,Italy,13,4,0
+112,Japan,13,25,0
+113,Japan,13,25,0
+114,Kazakhstan,13,23,0
+115,Liechtenstein,13,196,0
+116,Mexico,13,47,0
+117,Netherlands,13,10,0
+118,ROC,13,33,0
+119,ROC,13,33,0
+120,South Africa,13,37,0
+121,Spain,13,3,0
+122,Spain,13,3,0
+123,Ukraine,13,87,0
+124,Ukraine,13,87,0
+125,United States,13,12,0
+126,Australia,12,11,0
+127,Bahamas,12,114,0
+128,Belarus,12,107,0
+129,Belgium,12,15,0
+130,Belgium,12,15,0
+131,Belgium,12,15,0
+132,Botswana,12,111,0
+133,Brazil,12,53,0
+134,Brazil,12,53,0
+135,Brazil,12,53,0
+136,Canada,12,27,0
+137,Canada,12,27,0
+138,China,12,72,0
+139,China,12,72,0
+140,Colombia,12,48,0
+141,Cuba,12,84,0
+142,Czech Republic,12,120,0
+143,Denmark,12,115,0
+144,Denmark,12,115,0
+145,Dominican Rep.,12,100,0
+146,Ecuador,12,110,0
+147,France,12,5,0
+148,France,12,5,0
+149,France,12,5,0
+150,France,12,5,0
+151,Germany,12,20,0
+152,Germany,12,20,0
+153,Germany,12,20,0
+154,Germany,12,20,0
+155,Germany,12,20,0
+156,Ghana,12,109,0
+157,Great Britain,12,56,0
+158,Great Britain,12,56,0
+159,Great Britain,12,56,0
+160,Great Britain,12,56,0
+161,Great Britain,12,56,0
+162,India,12,43,0
+163,India,12,43,0
+164,Ireland,12,93,0
+165,Italy,12,4,0
+166,Italy,12,4,0
+167,Italy,12,4,0
+168,Italy,12,4,0
+169,Italy,12,4,0
+170,Jamaica,12,94,0
+171,Jamaica,12,94,0
+172,Jamaica,12,94,0
+173,Jamaica,12,94,0
+174,Jamaica,12,94,0
+175,Japan,12,25,0
+176,Japan,12,25,0
+177,Japan,12,25,0
+178,Netherlands,12,10,0
+179,Netherlands,12,10,0
+180,Netherlands,12,10,0
+181,Netherlands,12,10,0
+182,Netherlands,12,10,0
+183,Nigeria,12,45,0
+184,Nigeria,12,45,0
+185,Poland,12,51,0
+186,Poland,12,51,0
+187,Poland,12,51,0
+188,Poland,12,51,0
+189,South Africa,12,37,0
+190,South Africa,12,37,0
+191,Spain,12,3,0
+192,Switzerland,12,36,0
+193,Switzerland,12,36,0
+194,Trinidad & Tobago,12,71,0
+195,Trinidad & Tobago,12,71,0
+196,Trinidad & Tobago,12,71,0
+197,Turkey,12,54,0
+198,Ukraine,12,87,0
+199,Ukraine,12,87,0
+200,United States,12,12,0
+201,United States,12,12,0
+202,United States,12,12,0
+203,United States,12,12,0
+204,United States,12,12,0
+205,Australia,11,11,0
+206,Canada,11,27,0
+207,Dominican Rep.,11,100,0
+208,Israel,11,97,0
+209,Italy,11,4,0
+210,Japan,11,25,0
+211,Japan,11,25,0
+212,Mexico,11,47,0
+213,Mexico,11,47,0
+214,Republic of Korea,11,112,0
+215,United States,11,12,0
+216,United States,11,12,0
+217,Argentina,5,85,0
+218,Australia,5,11,0
+219,Australia,5,11,0
+220,Belgium,5,15,0
+221,Canada,5,27,0
+222,China,5,72,0
+223,Czech Republic,5,120,0
+224,France,5,5,0
+225,France,5,5,0
+226,Germany,5,20,0
+227,Islamic Rep. of Iran,5,8,0
+228,Italy,5,4,0
+229,Japan,5,25,0
+230,Japan,5,25,0
+231,Nigeria,5,45,0
+232,Nigeria,5,45,0
+233,Puerto Rico,5,59,0
+234,Republic of Korea,5,112,0
+235,Serbia,5,86,0
+236,Slovenia,5,133,0
+237,Spain,5,3,0
+238,Spain,5,3,0
+239,United States,5,12,0
+240,United States,5,12,0
+241,Azaad/Capogrosso,25,85,0
+242,Gallay/Pereyra,25,85,0
+243,McHugh/Schumann,25,11,0
+244,Artacho Del Solar/Clancy,25,11,0
+245,Alison/Alvaro Filho,25,53,0
+246,Evandro/Bruno Schmidt,25,53,0
+247,Ana Patricia/Rebecca,25,53,0
+248,Agatha/Duda,25,53,0
+249,Bansley/Brandie,25,27,0
+250,Pavan/Melissa,25,27,0
+251,Grimalt M./Grimalt E.,25,6,0
+252,Wang/X.Y.Xia,25,72,0
+253,Xue/Wang X.X.,25,72,0
+254,Lidy/Leila,25,84,0
+255,Perusic/Schweiner,25,120,0
+256,Hermannova/Slukova,25,120,0
+257,Thole J./Wickler,25,20,0
+258,Ludwig/Kozuch,25,20,0
+259,Sude/Borger,25,20,0
+260,Nicolai/Lupo,25,4,0
+261,Carambula/Rossi,25,4,0
+262,Menegatti/Orsi Toth,25,4,0
+263,Gottsu/Shiratori,25,25,0
+264,Ishii/Murakami,25,25,0
+265,Makokha/Khadambi,25,64,0
+266,Plavins/Tocs,25,78,0
+267,Graudina/Kravcenoka,25,78,0
+268,Gaxiola/Rubio,25,47,0
+269,Abicha/Elgraoui,25,30,0
+270,Brouwer/Meeuwsen,25,10,0
+271,Keizer/Meppelink,25,10,0
+272,Stam/Schoon,25,10,0
+273,Mol A./Sorum C.,25,2,0
+274,Bryl/Fijalek,25,51,0
+275,Kantor/Losiak,25,51,0
+276,Cherif/Ahmed,25,13,0
+277,Krasilnikov/Stoyanovskiy,25,33,0
+278,Leshukov/Semenov,25,33,0
+279,Makroguzova/Kholomina,25,33,0
+280,Herrera/Gavira,25,3,0
+281,Liliana/Elsa,25,3,0
+282,Heidrich/Gerson,25,36,0
+283,Huberli/Betschart,25,36,0
+284,"Verge-Depre, A./Heidrich",25,36,0
+285,Gibb/Bourne,25,12,0
+286,Lucena/Dalhausser,25,12,0
+287,April/Alix,25,12,0
+288,Claes/Sponcil,25,12,0
+289,Australia,40,11,0
+290,Australia,40,11,0
+291,Australia,40,11,0
+292,Australia,40,11,0
+293,Australia,40,11,0
+294,Austria,40,31,0
+295,Belgium,40,15,0
+296,Belgium,40,15,0
+297,Canada,40,27,0
+298,Canada,40,27,0
+299,Canada,40,27,0
+300,Canada,40,27,0
+301,China,40,72,0
+302,Denmark,40,115,0
+303,Denmark,40,115,0
+304,Denmark,40,115,0
+305,France,40,5,0
+306,France,40,5,0
+307,France,40,5,0
+308,France,40,5,0
+309,Germany,40,20,0
+310,Germany,40,20,0
+311,Germany,40,20,0
+312,Germany,40,20,0
+313,Germany,40,20,0
+314,Germany,40,20,0
+315,Great Britain,40,56,0
+316,Great Britain,40,56,0
+317,Great Britain,40,56,0
+318,Great Britain,40,56,0
+319,Great Britain,40,56,0
+320,"Hong Kong, China",40,129,0
+321,Ireland,40,93,0
+322,Ireland,40,93,0
+323,Italy,40,4,0
+324,Italy,40,4,0
+325,Italy,40,4,0
+326,Italy,40,4,0
+327,Japan,40,25,0
+328,Lithuania,40,58,0
+329,Mexico,40,47,0
+330,Netherlands,40,10,0
+331,Netherlands,40,10,0
+332,Netherlands,40,10,0
+333,Netherlands,40,10,0
+334,New Zealand,40,113,0
+335,New Zealand,40,113,0
+336,New Zealand,40,113,0
+337,New Zealand,40,113,0
+338,New Zealand,40,113,0
+339,Poland,40,51,0
+340,Poland,40,51,0
+341,Poland,40,51,0
+342,Poland,40,51,0
+343,ROC,40,33,0
+344,ROC,40,33,0
+345,ROC,40,33,0
+346,Spain,40,3,0
+347,Switzerland,40,36,0
+348,Switzerland,40,36,0
+349,Ukraine,40,87,0
+350,United States,40,12,0
+351,United States,40,12,0
+352,United States,40,12,0
+353,Canada,19,27,0
+354,Canada,19,27,0
+355,China,19,72,0
+356,China,19,72,0
+357,China,19,72,0
+358,Egypt,19,14,0
+359,Egypt,19,14,0
+360,Egypt,19,14,0
+361,Estonia,19,95,0
+362,France,19,5,0
+363,France,19,5,0
+364,France,19,5,0
+365,France,19,5,0
+366,Germany,19,20,0
+367,Germany,19,20,0
+368,"Hong Kong, China",19,129,0
+369,"Hong Kong, China",19,129,0
+370,Hungary,19,57,0
+371,Hungary,19,57,0
+372,Hungary,19,57,0
+373,Islamic Rep. of Iran,19,8,0
+374,Italy,19,4,0
+375,Italy,19,4,0
+376,Italy,19,4,0
+377,Italy,19,4,0
+378,Italy,19,4,0
+379,Italy,19,4,0
+380,Japan,19,25,0
+381,Japan,19,25,0
+382,Japan,19,25,0
+383,Japan,19,25,0
+384,Japan,19,25,0
+385,Poland,19,51,0
+386,Republic of Korea,19,112,0
+387,Republic of Korea,19,112,0
+388,Republic of Korea,19,112,0
+389,Republic of Korea,19,112,0
+390,ROC,19,33,0
+391,ROC,19,33,0
+392,ROC,19,33,0
+393,ROC,19,33,0
+394,ROC,19,33,0
+395,ROC,19,33,0
+396,Switzerland,19,36,0
+397,Tunisia,19,46,0
+398,Ukraine,19,87,0
+399,United States,19,12,0
+400,United States,19,12,0
+401,United States,19,12,0
+402,United States,19,12,0
+403,United States,19,12,0
+404,United States,19,12,0
+405,Argentina,17,85,0
+406,Australia,17,11,0
+407,Australia,17,11,0
+408,Brazil,17,53,0
+409,Brazil,17,53,0
+410,Canada,17,27,0
+411,Chile,17,6,0
+412,China,17,72,0
+413,Côte d’Ivoire,17,70,0
+414,Egypt,17,14,0
+415,France,17,5,0
+416,Germany,17,20,0
+417,Great Britain,17,56,0
+418,Honduras,17,101,0
+419,Japan,17,25,0
+420,Japan,17,25,0
+421,Mexico,17,47,0
+422,Netherlands,17,10,0
+423,New Zealand,17,113,0
+424,New Zealand,17,113,0
+425,Republic of Korea,17,112,0
+426,Romania,17,50,0
+427,Saudi Arabia,17,19,0
+428,South Africa,17,37,0
+429,Spain,17,3,0
+430,Sweden,17,55,0
+431,United States,17,12,0
+432,Zambia,17,137,0
+433,Angola,6,60,0
+434,Argentina,6,85,0
+435,Bahrain,6,24,0
+436,Brazil,6,53,0
+437,Brazil,6,53,0
+438,Denmark,6,115,0
+439,Egypt,6,14,0
+440,France,6,5,0
+441,France,6,5,0
+442,Germany,6,20,0
+443,Hungary,6,57,0
+444,Japan,6,25,0
+445,Japan,6,25,0
+446,Montenegro,6,121,0
+447,Netherlands,6,10,0
+448,Norway,6,2,0
+449,Norway,6,2,0
+450,Portugal,6,40,0
+451,Republic of Korea,6,112,0
+452,ROC,6,33,0
+453,Spain,6,3,0
+454,Spain,6,3,0
+455,Sweden,6,55,0
+456,Sweden,6,55,0
+457,Argentina,27,85,0
+458,Argentina,27,85,0
+459,Australia,27,11,0
+460,Australia,27,11,0
+461,Belgium,27,15,0
+462,Canada,27,27,0
+463,China,27,72,0
+464,Germany,27,20,0
+465,Germany,27,20,0
+466,Great Britain,27,56,0
+467,Great Britain,27,56,0
+468,India,27,43,0
+469,India,27,43,0
+470,Ireland,27,93,0
+471,Japan,27,25,0
+472,Japan,27,25,0
+473,Netherlands,27,10,0
+474,Netherlands,27,10,0
+475,New Zealand,27,113,0
+476,New Zealand,27,113,0
+477,South Africa,27,37,0
+478,South Africa,27,37,0
+479,Spain,27,3,0
+480,Spain,27,3,0
+481,Australia,10,11,0
+482,Azerbaijan,10,9,0
+483,Belarus,10,107,0
+484,Brazil,10,53,0
+485,Bulgaria,10,91,0
+486,China,10,72,0
+487,Egypt,10,14,0
+488,Israel,10,97,0
+489,Italy,10,4,0
+490,Japan,10,25,0
+491,ROC,10,33,0
+492,Ukraine,10,87,0
+493,United States,10,12,0
+494,Uzbekistan,10,21,0
+495,Argentina,36,85,0
+496,Australia,36,11,0
+497,Australia,36,11,0
+498,Brazil,36,53,0
+499,Canada,36,27,0
+500,Canada,36,27,0
+501,China,36,72,0
+502,Fiji,36,136,0
+503,Fiji,36,136,0
+504,France,36,5,0
+505,Great Britain,36,56,0
+506,Great Britain,36,56,0
+507,Ireland,36,93,0
+508,Japan,36,25,0
+509,Japan,36,25,0
+510,Kenya,36,64,0
+511,Kenya,36,64,0
+512,New Zealand,36,113,0
+513,New Zealand,36,113,0
+514,Republic of Korea,36,112,0
+515,ROC,36,33,0
+516,South Africa,36,37,0
+517,United States,36,12,0
+518,United States,36,12,0
+519,Australia,7,11,0
+520,Australia,7,11,0
+521,Australia,7,11,0
+522,Australia,7,11,0
+523,Australia,7,11,0
+524,Australia,7,11,0
+525,Australia,7,11,0
+526,Belarus,7,107,0
+527,Belarus,7,107,0
+528,Belarus,7,107,0
+529,Brazil,7,53,0
+530,Brazil,7,53,0
+531,Brazil,7,53,0
+532,Brazil,7,53,0
+533,Brazil,7,53,0
+534,Brazil,7,53,0
+535,Canada,7,27,0
+536,Canada,7,27,0
+537,Canada,7,27,0
+538,Canada,7,27,0
+539,Canada,7,27,0
+540,Canada,7,27,0
+541,China,7,72,0
+542,China,7,72,0
+543,China,7,72,0
+544,China,7,72,0
+545,China,7,72,0
+546,China,7,72,0
+547,Czech Republic,7,120,0
+548,Denmark,7,115,0
+549,Denmark,7,115,0
+550,France,7,5,0
+551,France,7,5,0
+552,France,7,5,0
+553,France,7,5,0
+554,France,7,5,0
+555,Germany,7,20,0
+556,Germany,7,20,0
+557,Germany,7,20,0
+558,Germany,7,20,0
+559,Germany,7,20,0
+560,Germany,7,20,0
+561,Germany,7,20,0
+562,Great Britain,7,56,0
+563,Great Britain,7,56,0
+564,Great Britain,7,56,0
+565,Great Britain,7,56,0
+566,Great Britain,7,56,0
+567,Great Britain,7,56,0
+568,Greece,7,103,0
+569,Greece,7,103,0
+570,Greece,7,103,0
+571,"Hong Kong, China",7,129,0
+572,"Hong Kong, China",7,129,0
+573,"Hong Kong, China",7,129,0
+574,Hungary,7,57,0
+575,Hungary,7,57,0
+576,Hungary,7,57,0
+577,Hungary,7,57,0
+578,Hungary,7,57,0
+579,Ireland,7,93,0
+580,Israel,7,97,0
+581,Israel,7,97,0
+582,Italy,7,4,0
+583,Italy,7,4,0
+584,Italy,7,4,0
+585,Italy,7,4,0
+586,Italy,7,4,0
+587,Italy,7,4,0
+588,Japan,7,25,0
+589,Japan,7,25,0
+590,Japan,7,25,0
+591,Japan,7,25,0
+592,Japan,7,25,0
+593,Japan,7,25,0
+594,Japan,7,25,0
+595,Lithuania,7,58,0
+596,Netherlands,7,10,0
+597,Netherlands,7,10,0
+598,Netherlands,7,10,0
+599,Netherlands,7,10,0
+600,New Zealand,7,113,0
+601,Poland,7,51,0
+602,Poland,7,51,0
+603,Poland,7,51,0
+604,Poland,7,51,0
+605,Poland,7,51,0
+606,Poland,7,51,0
+607,Republic of Korea,7,112,0
+608,Republic of Korea,7,112,0
+609,ROC,7,33,0
+610,ROC,7,33,0
+611,ROC,7,33,0
+612,ROC,7,33,0
+613,ROC,7,33,0
+614,ROC,7,33,0
+615,ROC,7,33,0
+616,Serbia,7,86,0
+617,South Africa,7,37,0
+618,South Africa,7,37,0
+619,Spain,7,3,0
+620,Sweden,7,55,0
+621,Sweden,7,55,0
+622,Switzerland,7,36,0
+623,Switzerland,7,36,0
+624,Turkey,7,54,0
+625,United States,7,12,0
+626,United States,7,12,0
+627,United States,7,12,0
+628,United States,7,12,0
+629,United States,7,12,0
+630,United States,7,12,0
+631,United States,7,12,0
+632,Australia,16,11,0
+633,HU Heming / TAPPER Melissa,16,11,0
+634,Australia,16,11,0
+635,FEGERL Stefan / POLCANOVA Sofia,16,31,0
+636,Austria,16,31,0
+637,Brazil,16,53,0
+638,Brazil,16,53,0
+639,WANG Zhen / ZHANG Mo,16,27,0
+640,China,16,72,0
+641,XU Xin / LIU Shiwen,16,72,0
+642,China,16,72,0
+643,Chinese Taipei,16,161,0
+644,LIN Yun Ju / CHENG I Ching,16,161,0
+645,Chinese Taipei,16,161,0
+646,Croatia,16,149,0
+647,CAMPOS Jorge / FONSECA Daniela,16,84,0
+648,Egypt,16,14,0
+649,ASSAR Omar / MESHREF Dina,16,14,0
+650,Egypt,16,14,0
+651,France,16,5,0
+652,LEBESSON Emmanuel / YUAN Jia Nan,16,5,0
+653,France,16,5,0
+654,Germany,16,20,0
+655,FRANZISKA Patrick / SOLJA Petrissa,16,20,0
+656,Germany,16,20,0
+657,"Hong Kong, China",16,129,0
+658,WONG Chun Ting / DOO Hoi Kem,16,129,0
+659,"Hong Kong, China",16,129,0
+660,SZUDI Adam / PERGEL Szandra,16,57,0
+661,Hungary,16,57,0
+662,ACHANTA Kamal / BATRA Manika,16,43,0
+663,Japan,16,25,0
+664,MIZUTANI Jun / ITO Mima,16,25,0
+665,Japan,16,25,0
+666,Poland,16,51,0
+667,Portugal,16,40,0
+668,Republic of Korea,16,112,0
+669,LEE Sangsu / JEON Jihee,16,112,0
+670,Republic of Korea,16,112,0
+671,IONESCU Ovidiu / SZOCS Bernadette,16,50,0
+672,Romania,16,50,0
+673,Serbia,16,86,0
+674,Singapore,16,17,0
+675,PISTEJ Lubomir / BALAZOVA Barbora,16,135,0
+676,Slovenia,16,133,0
+677,Sweden,16,55,0
+678,United States,16,12,0
+679,United States,16,12,0
+680,Australia,30,11,0
+681,Austria,30,31,0
+682,Belgium,30,15,0
+683,Canada,30,27,0
+684,France,30,5,0
+685,Germany,30,20,0
+686,Great Britain,30,56,0
+687,Hungary,30,57,0
+688,Italy,30,4,0
+689,Japan,30,25,0
+690,Mexico,30,47,0
+691,Netherlands,30,10,0
+692,New Zealand,30,113,0
+693,ROC,30,33,0
+694,South Africa,30,37,0
+695,Spain,30,3,0
+696,Switzerland,30,36,0
+697,United States,30,12,0
+698,Argentina,37,85,0
+699,Argentina,37,85,0
+700,Brazil,37,53,0
+701,Brazil,37,53,0
+702,Canada,37,27,0
+703,China,37,72,0
+704,Dominican Rep.,37,100,0
+705,France,37,5,0
+706,Islamic Rep. of Iran,37,8,0
+707,Italy,37,4,0
+708,Italy,37,4,0
+709,Japan,37,25,0
+710,Japan,37,25,0
+711,Kenya,37,64,0
+712,Poland,37,51,0
+713,Republic of Korea,37,112,0
+714,ROC,37,33,0
+715,ROC,37,33,0
+716,Serbia,37,86,0
+717,Tunisia,37,46,0
+718,Turkey,37,54,0
+719,United States,37,12,0
+720,United States,37,12,0
+721,Venezuela,37,104,0
+722,Australia,32,11,0
+723,Australia,32,11,0
+724,Canada,32,27,0
+725,China,32,72,0
+726,Croatia,32,149,0
+727,Greece,32,103,0
+728,Hungary,32,57,0
+729,Hungary,32,57,0
+730,Italy,32,4,0
+731,Japan,32,25,0
+732,Japan,32,25,0
+733,Kazakhstan,32,23,0
+734,Montenegro,32,121,0
+735,Netherlands,32,10,0
+736,ROC,32,33,0
+737,Serbia,32,86,0
+738,South Africa,32,37,0
+739,South Africa,32,37,0
+740,Spain,32,3,0
+741,Spain,32,3,0
+742,United States,32,12,0
+743,United States,32,12,0
