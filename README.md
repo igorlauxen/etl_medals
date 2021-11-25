@@ -2,14 +2,14 @@
 
 This is a school job for ETL practice for unisinos. Received columns are label as english due to dataset, but output tables will be translated to portuguese (pt-br)
 
-## Project Structure
+## Python
 
-1. Talend Open Studio as ETL tool
-1. SQLite as local DB
-1. Check SQL commands in sql_commands.md
-1. How to connect SQLite with Talend [here](https://community.talend.com/s/article/How-to-install-and-create-an-SQLite-database-and-integrate-it-with-Talend-vceCf?language=en_US)
-1. How to import csv files to talend [here](https://www.youtube.com/watch?v=K7dVHiES9NY&ab_channel=AdamTech)
-1. How to import csv files to DB [here](https://www.youtube.com/watch?v=CXznw2YBe2I&ab_channel=manishagupta)
+1. Use pip3
+1. Install openpyxl, pandas with pip3
+
+### How to run
+
+Run `main.py`
 
 ## Datasets
 
@@ -68,7 +68,7 @@ Below there is a list of points that were raised by me while looking the table s
 3. [IMPROVEMENT] There is no direct relation between Coaches and Athletes. I can still create a relation based on Country and Games. If I create tables to Countries and Games this would become easier
 4. [INCONSISTENCIES] Athletes table don't have gender information. Entry Gender table may not be used due to this.
 5. [IMPROVEMENT/INCONSISTENCIES] Ideally I would create a table Games where I would have the information realted to NOC and Event, but since the Athletes table doesn't have the event information, I don't think I would be able to unless I had a relation 1 Athlete to N games. But I don't know if this makes sense. @TODO need to search olympics rules to do this.
-
+6. [INCONSISTENCIES] Events from Teams and Coaches do not match!
 
 ## Tokyo Olympics Proposed Dataset
 
