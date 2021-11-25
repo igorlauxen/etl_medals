@@ -7,6 +7,10 @@ This is a school job for ETL practice for unisinos. Received columns are label a
 1. Use pip3
 1. Install openpyxl, pandas with pip3
 
+### How to run
+
+Run `main.py`
+
 ## Project Structure
 
 1. Talend Open Studio as ETL tool

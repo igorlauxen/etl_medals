@@ -1,10 +1,8 @@
 import pandas as pd
 import csv  
 
-file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/'
 athletes_file_name = 'Athletes.xlsx'
-output_file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/output/'
-paises_output = 'Jogos.csv'
+file_output = 'Jogos.csv'
 
 header = ['id', 'nome'];
 
@@ -17,7 +15,7 @@ class GameBuilder:
       jogos_df = pd.DataFrame({'id': [], 'nome': []})
       print (game_df.iterrows())
       count = 1
-      with open(output_file_path+paises_output, 'w', encoding='UTF8') as f:
+      with open(output_file_path+file_output, 'w', encoding='UTF8') as f:
         writer = csv.writer(f)
         writer.writerow(header)
         for row in game_df.iterrows():

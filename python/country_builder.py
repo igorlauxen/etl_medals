@@ -1,9 +1,7 @@
 import pandas as pd
 import csv  
 
-file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/'
 athletes_file_name = 'Athletes.xlsx'
-output_file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/output/'
 paises_output = 'Paises.csv'
 
 header = ['id', 'nome'];
