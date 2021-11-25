@@ -37,3 +37,5 @@ coachTeam.build(input_file_path, output_file_path)
 
 athletesBuilder = AthletesBuilder()
 athletesBuilder.build(input_file_path, output_file_path)
+
+print("Process done!")
