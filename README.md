@@ -11,15 +11,6 @@ This is a school job for ETL practice for unisinos. Received columns are label a
 
 Run `main.py`
 
-## Project Structure
-
-1. Talend Open Studio as ETL tool
-1. SQLite as local DB
-1. Check SQL commands in sql_commands.md
-1. How to connect SQLite with Talend [here](https://community.talend.com/s/article/How-to-install-and-create-an-SQLite-database-and-integrate-it-with-Talend-vceCf?language=en_US)
-1. How to import csv files to talend [here](https://www.youtube.com/watch?v=K7dVHiES9NY&ab_channel=AdamTech)
-1. How to import csv files to DB [here](https://www.youtube.com/watch?v=CXznw2YBe2I&ab_channel=manishagupta)
-
 ## Datasets
 
 - [Tokyo Olympics 2021](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo)
