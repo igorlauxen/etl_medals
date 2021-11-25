@@ -1,10 +1,10 @@
-import pandas as pd
 from country_builder import CountryBuilder
 from game_builder import GameBuilder
 from event_builder import EventBuilder
 from medal_builder import MedalBuilder
 from team_builder import TeamBuilder
 from coach_builder import CoachBuilder
+from athletes_builder import AthletesBuilder
 
 # todo improve the load of files
 input_file_path = '/Users/i841640/Documents/unisinos/big_data_etl/etl_medals/olympics/'
@@ -29,3 +29,6 @@ teamBuilder = TeamBuilder()
 
 coachTeam = CoachBuilder()
 coachTeam.build(input_file_path, output_file_path)
+
+athletesBuilder = AthletesBuilder()
+athletesBuilder.build(input_file_path, output_file_path)
