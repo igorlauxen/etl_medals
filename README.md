@@ -2,11 +2,6 @@
 
 This is a school job for ETL practice for unisinos. Received columns are label as english due to dataset, but output tables will be translated to portuguese (pt-br)
 
-## Python
-
-1. Use pip3
-1. Install openpyxl, pandas with pip3
-
 ## Business
 
 1. Escolher ou criar uma base de dados (Staging); 
@@ -29,6 +24,10 @@ This is a school job for ETL practice for unisinos. Received columns are label a
 1. Criar uma visualização de dados utilizando as tabelas construídas.  
     - Será montado em um excel
 
+## Python
+
+1. Use pip3
+1. Install openpyxl, pandas with pip3
 ### How to run
 
 Run `main.py`
