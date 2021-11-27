@@ -7,6 +7,28 @@ This is a school job for ETL practice for unisinos. Received columns are label a
 1. Use pip3
 1. Install openpyxl, pandas with pip3
 
+## Business
+
+1. Escolher ou criar uma base de dados (Staging); 
+    - [Tokyo Olympics 2021](https://www.kaggle.com/arjunprasadsarkhel/2021-olympics-in-tokyo)
+1. Modelar, pelo menos, três tabelas dimensão, sendo uma de cada tipo das atualizações (SCD) vistas em aula. Explicações abaixo são baseadas no site [O que significa e qual a importância do SCD no Data Warehouse](https://canaltech.com.br/infra/O-que-significa-e-qual-a-importancia-do-SCD-no-Data-Warehouse/)
+    - SCD 1 `alteração que não armazena histórico na dimensão`:
+        - Atletas.csv
+        - motivação para essa proposta: os atletas se inscrevem antes nas olimpiadas e salvo excessões, se mantém estáticos. Assumo que a saída de um atleta não possa ser substituída
+    - SCD 2: `adicionado um novo registro com as mudanças, preservando sempre os dados anteriores`
+        - Medalhas.csv
+        - movitação: Preservar todo o histórico de mudanças dos países e seus ranks
+    - SCD 3: `Essa técnica funciona com a adição de uma nova coluna na tabela de dimensão, onde é armazenada a atualização, mantendo na antiga coluna o valor anterior`
+        - Coaches.csv
+        - movitação: será armazenado somente o ultimo e penultimo técnico atrelado a um time imaginando que possam ocorrer trocas ao longo das olimpiadas mas que não sejam constantes.
+1. Modelar pelo menos uma tabela fato; 
+    - Tabelas fatos: Atletas, Medalhas e Treinadores
+1. Popular com dados as tabelas dimensão e a(s) tabela(s) fato(s); 
+    - Dimensão: Jogos, Eventos, Paises
+    - inicialmente foi utilizado Talend com input excel e output de para uma base de dados SQLite, porém como o job não conectava ao banco, foi trocado a prática.
+1. Criar uma visualização de dados utilizando as tabelas construídas.  
+    - Será montado em um excel
+
 ### How to run
 
 Run `main.py`
