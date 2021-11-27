@@ -62,8 +62,8 @@ Table **Entry Gender**
 |Total|Integer|
 
 Table **Medals**
-| Column | Attribute Type| 
-|---------|---------|
+| Column | Attribute Type|Comments|
+|---------|---------|-----|
 |Rank|Integer|
 |Team/NOC|String|
 |Gold|Integer|
@@ -71,6 +71,7 @@ Table **Medals**
 |Bronze|Integer|
 |Total|Integer|
 |Rank by Total|Integer|
+|Date|Intenger|Add to reproduce SCD 2. Expects format DD/MM/YYYY|
 
 Table **Teams**
 | Column | Attribute Type| 
@@ -126,15 +127,16 @@ Table **Entry Gender**
 This table will be ignored due to [Dataset Analysis](#dataset-analysis)
 
 Table **Medalhas**
-| Column | Attribute Type| Column Type| 
-|---------|---------|---------|
-|Rank|Integer||
-|Pais|Intenger| RK to Paises|
-|Ouro|Integer||
-|Prata|Integer||
-|Bronze|Integer||
-|Total|Integer||
-|Rank pelo Total|Integer||
+| Column | Attribute Type| Column Type|Comment|
+|---------|---------|---------|-------|
+|Rank|Integer|||
+|Pais|Intenger| RK to Paises||
+|Ouro|Integer|||
+|Prata|Integer|||
+|Bronze|Integer|||
+|Total|Integer|||
+|Rank pelo Total|Integer|||
+|Date|Intenger||Adicionado para reproduzir SCD 2. Espera formato DD/MM/YYYY|
 
 Table **Times**
 | Column | Attribute Type| Column Type| 

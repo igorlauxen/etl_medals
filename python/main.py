@@ -18,24 +18,24 @@ output_file_path = path+'/output/'
 # Note! The order of execution matters!
 
 countryBuilder = CountryBuilder()
-countryBuilder.build(input_file_path, output_file_path)
+#countryBuilder.build(input_file_path, output_file_path)
 
 gameBuilder = GameBuilder()
-gameBuilder.build(input_file_path, output_file_path)
+#gameBuilder.build(input_file_path, output_file_path)
 
 eventBuilder = EventBuilder()
-eventBuilder.build(input_file_path, output_file_path)
+#eventBuilder.build(input_file_path, output_file_path)
 
 medalBuilder = MedalBuilder()
 medalBuilder.build(input_file_path, output_file_path)
 
 teamBuilder = TeamBuilder()
-teamBuilder.build(input_file_path, output_file_path)
+#teamBuilder.build(input_file_path, output_file_path)
 
 coachTeam = CoachBuilder()
-coachTeam.build(input_file_path, output_file_path)
+#coachTeam.build(input_file_path, output_file_path)
 
 athletesBuilder = AthletesBuilder()
-athletesBuilder.build(input_file_path, output_file_path)
+#athletesBuilder.build(input_file_path, output_file_path)
 
 print("Process done!")
